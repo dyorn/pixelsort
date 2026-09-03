@@ -12,3 +12,7 @@ venv
 
 #Output images in root (examples are not ignored)
 /*.png
+# Build & packaging
+dist/
+build/
+*.egg-info/
